@@ -19,6 +19,7 @@
       "hyperion": [
         "https://vexascan.com:8443"
       ],
+      "tokenList": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/tokenlist.json",
       "explorer": {
         "url": "https://vexascan.com",
         "tx": "https://vexascan.com/transaction/{txid}",
