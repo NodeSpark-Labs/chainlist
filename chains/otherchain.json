@@ -12,7 +12,7 @@
       "publicKeyPrefix": "VEX",
       "tokenContract": "vex.token",
       "systemContract": "vexcore",
-      "logo": "https://raw.githubusercontent.com/NodeSpark-Labs/chainlist/main/chains/vexanium.png",
+      "logo": "https://raw.githubusercontent.com/NodeSpark-Labs/chainlist/main/chains/assets/vexanium.png",
       "rpc": [
         "https://vexascan.com:8443"
       ],
