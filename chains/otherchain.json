@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-08",
+  "chains": [
+    {
+      "id": "vexanium",
+      "name": "Vexanium",
+      "type": "antelope",
+      "chainId": "f9f432b1851b5c179d2091a96f593aaed50ec7466b74f89301f957a83e56ce1f",
+      "symbol": "VEX",
+      "precision": 4,
+      "publicKeyPrefix": "VEX",
+      "tokenContract": "vex.token",
+      "systemContract": "vexcore",
+      "logo": "https://raw.githubusercontent.com/NodeSpark-Labs/chainlist/main/chains/vexanium.png",
+      "rpc": [
+        "https://vexascan.com:8443"
+      ],
+      "hyperion": [
+        "https://vexascan.com:8443"
+      ],
+      "explorer": {
+        "url": "https://vexascan.com",
+        "tx": "https://vexascan.com/transaction/{txid}",
+        "account": "https://vexascan.com/account/{account}"
+      },
+      "accountCreation": {
+        "url": "https://api.nodespark.org/api/vexanium/create-account"
+      },
+      "refundDelaySec": 259200
+    }
+  ]
+}
